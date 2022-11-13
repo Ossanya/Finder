@@ -5,6 +5,8 @@
     padding: 0;
 }
 
+/*body*/
+
 body {
     background: url(https://gfx.dlastudenta.pl/photos/dlafaceta/para-min.jpg);
     background-repeat:no-repeat;
@@ -13,6 +15,8 @@ height:100vh;
 background-size: cover;
 font-family: 'Kanit', sans-serif;
 }
+
+/*img*/
 
 img {
     border-radius:50%;
@@ -26,6 +30,7 @@ img {
     display: inline-flex;
 }
 
+/*h tags*/
 h3 {
     margin-top: 15px;
     margin-left: 10px;
@@ -86,7 +91,7 @@ nav {
 
   }
 
-
+/*button*/
   button {
     height: 40px;
     width: 150px;
